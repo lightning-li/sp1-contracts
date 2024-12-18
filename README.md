@@ -17,7 +17,7 @@ Add `@sp1-contracts/=lib/sp1-contracts/contracts/src/` in `remappings.txt.`
 Once installed, you can import the `ISP1Verifier` interface and use it in your contract:
 
 ```solidity
-pragma solidity ^0.8.20;
+pragma solidity ^0.8.15;
 
 import {ISP1Verifier} from "@sp1-contracts/ISP1Verifier.sol";
 
